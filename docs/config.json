@@ -1,0 +1,11 @@
+{
+  "aws": {
+    "region": "us-east-1",
+    "note": "Uses existing AWS credentials from ~/.aws/credentials"
+  },
+  "google_service_account_path": "path/to/google-service-account-key.json",
+  "google_note": "Download from Google Cloud Console > Service Accounts > Create Key (JSON)",
+  "azure_endpoint": "https://YOUR-REGION.api.cognitive.microsoft.com/",
+  "azure_key": "YOUR-AZURE-API-KEY",
+  "azure_note": "Get from Azure Portal > Cognitive Services > Face API > Keys and Endpoints"
+}
