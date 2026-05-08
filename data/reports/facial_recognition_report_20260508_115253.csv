@@ -1,0 +1,2 @@
+image,faces_detected,face_count,confidence,age_range,emotions,pose_pitch,pose_roll,pose_yaw,smile,eyes_open,mouth_open,timestamp
+face_test.jpg,1,1,99.99,22-28,CALM (98.9%),-8.12,3.97,24.81,False,True,False,2026-05-08T11:52:55.386392
